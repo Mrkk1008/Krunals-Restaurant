@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Krunals-Restaurant/static/css/main.dcc41639.chunk.css",
+    "main.js": "/Krunals-Restaurant/static/js/main.e6ede086.chunk.js",
+    "main.js.map": "/Krunals-Restaurant/static/js/main.e6ede086.chunk.js.map",
+    "runtime-main.js": "/Krunals-Restaurant/static/js/runtime-main.11551b3d.js",
+    "runtime-main.js.map": "/Krunals-Restaurant/static/js/runtime-main.11551b3d.js.map",
+    "static/js/2.e57e455a.chunk.js": "/Krunals-Restaurant/static/js/2.e57e455a.chunk.js",
+    "static/js/2.e57e455a.chunk.js.map": "/Krunals-Restaurant/static/js/2.e57e455a.chunk.js.map",
+    "index.html": "/Krunals-Restaurant/index.html",
+    "static/css/main.dcc41639.chunk.css.map": "/Krunals-Restaurant/static/css/main.dcc41639.chunk.css.map",
+    "static/js/2.e57e455a.chunk.js.LICENSE.txt": "/Krunals-Restaurant/static/js/2.e57e455a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11551b3d.js",
+    "static/js/2.e57e455a.chunk.js",
+    "static/css/main.dcc41639.chunk.css",
+    "static/js/main.e6ede086.chunk.js"
+  ]
+}
